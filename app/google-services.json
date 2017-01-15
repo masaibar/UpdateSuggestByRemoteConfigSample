@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "879275041704",
+    "firebase_url": "https://updatesuggestbyremoteconfig.firebaseio.com",
+    "project_id": "updatesuggestbyremoteconfig",
+    "storage_bucket": "updatesuggestbyremoteconfig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879275041704:android:726461683c3cc5bf",
+        "android_client_info": {
+          "package_name": "com.masaibar.updatesuggestbyremoteconfigsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879275041704-hphignjlrgr0pvesrkd6is0318b1gd2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1T6A9ClvQ0Vdj8K0KTuWobiYm0BisKKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
